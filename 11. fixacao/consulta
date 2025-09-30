@@ -1,0 +1,5 @@
+SELECT nome, telefone, salario FROM colaboradores;
+
+SELECT * FROM colaboradores ORDER BY nome ASC;
+
+SELECT * FROM colaboradores WHERE nome LIKE '%Silva%';

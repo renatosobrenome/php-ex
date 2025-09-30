@@ -1,0 +1,8 @@
+USE empresa;
+
+INSERT INTO colaboradores (nome, telefone, salario) VALUES
+('Ana Silva', '11999999999', 2500.00),
+('Carlos Souza', '11888888888', 3200.00),
+('Mariana Silva', '11777777777', 1800.00),
+('João Pereira', '11666666666', 4000.00),
+('Paulo Santos', '11555555555', 1500.00);
